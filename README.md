@@ -10,3 +10,8 @@ Some of the Courses and Certifications I achieved:
 - [Google Cloud Certified Professional Data Engineer](https://www.credential.net/54b9aead-f141-4806-8595-1616a4c05afa?key=5e7bccbedfca60773e27f7c1e2ec3750d570d61488a97122b17a7863f0133a48)
 - [Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/2MHPTZQRMRPV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/YR54TY2E582U)
+- Summer School: Experimental Social Science (Nuffield College, University of Oxford)
+- Randomized Controlled Trials, Center for Statistics in Medicine (University of Oxford)
+
+
+Before I started working in Industry as a Data Scientist (in 2018), I worked as a Interdisciplinary Researcher at the Intersection of Cognitive Sciences, Social Psychology and Musicology. You can find most of my publications from that time here --> [Publications](https://scholar.google.com/citations?user=TJxthbYAAAAJ&hl=en)
