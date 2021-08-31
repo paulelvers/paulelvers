@@ -2,7 +2,7 @@
 
 I am Paul. I am a AI Engineering Consultant. 
 
-I have built various customized ml solutions in the e-commerce and digital marketing space, inclduing recommendation systems, ad spend optimzations and personalization algorithms. Also I have be moving big chunks of data from here to there and tried not to lose any while doing that. I am always interested in new technology but also in solving the organisational, social and managerial challenges of the new data era. 
+I have built various customized ml solutions in the e-commerce and digital marketing space, inclduing recommendation systems, ad spend optimzations and personalization algorithms. Also I have be moving big chunks of data from here to there and tried not to lose any while doing that. I am always interested in new technology but also in solving the organizational, social and managerial challenges of the new data era. 
 
 Some of the Courses and Certifications I achieved:
 
