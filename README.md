@@ -2,17 +2,21 @@
 
 
 I am
-- working as a Senior Consultant AI Engineering.
-- designing machine learning cloud solutions on  AWS, Google Cloud Platform
-- doing data engineering (ingestion, etl, query optimization, streaming)
-- implementing ml and data science solutions
+- working as a **Senior Consultant AI Engineering**
+- designing **machine learning cloud solutions** on AWS & GCP
+- a **data engineer** (ingestion, etl, query optimization, streaming), if I have to 😉
+- **implementing ml and data science solutions** (algorithms, analytics, dashboards)
 
 I built
-- recommendation systems in ecommerce (online retail)
+- recommendation systems in ecommerce
 - digital advertising optimization systems
 - personalization algorithms
 - item similarity indices
 - etl & elt jobs
+
+I write
+- blog posts (irregularly) at [paulelvers.com](www.paulelvers.com)
+- tweets at [`/paulelvers`](www.twitter.com/paulelvers)
 
 ---
 
