@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Paul. I am a AI Engineering Consultant. 
 
@@ -6,7 +6,7 @@ I have built various customized ml solutions in the e-commerce and digital marke
 
 
 
-#### Some of my Courses and Certifications: 
+### Some of my Courses and Certifications: 
 
 - [Google Cloud Certified Professional Machine Learning Engineer](https://www.credential.net/d17c0b3e-92af-4120-bbf2-96906a5d0b24)
 - [Google Cloud Certified Professional Data Engineer](https://www.credential.net/54b9aead-f141-4806-8595-1616a4c05afa?key=5e7bccbedfca60773e27f7c1e2ec3750d570d61488a97122b17a7863f0133a48)
@@ -16,7 +16,7 @@ I have built various customized ml solutions in the e-commerce and digital marke
 - Randomized Controlled Trials, Center for Statistics in Medicine (University of Oxford)
 
 
-#### Technologies, Langues & Frameworks that I like and use:
+### Technologies, Langues & Frameworks that I like and use:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -43,7 +43,7 @@ I have built various customized ml solutions in the e-commerce and digital marke
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-#### My past life as a researcher 
+### My past life as a researcher 
 
 Before I started working in Industry as a Data Scientist (in 2018), I was a research fellow at the [Max Planck Institute for empirical Aesthetics](https://www.aesthetics.mpg.de/en.html). During that time, I published more than :one::four: Manuscripts, :seven: of them in leading peer-reviewed journals of the field.
 
