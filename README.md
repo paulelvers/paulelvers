@@ -2,7 +2,7 @@
 
 I am Paul. I am a AI Engineering Consultant. 
 
-I have built various customized ml solutions in the e-commerce and digital marketing space, inclduing recommendation systems, ad spend optimzations and personalization algorithms. Also I have be moving big chunks of data from here to there and tried not to lose any while doing that. I am always interested in new technology but also in solving the organizational, social and managerial challenges of the new data era. 
+I built various customized ml solutions in the e-commerce and digital marketing space, inclduing recommendation systems, ad spend optimzations and personalization algorithms. Also I have be moving big chunks of data from here to there and tried not to lose any while doing that. I am always interested in new technology but also in solving the organizational, social and managerial challenges of the new data era. 
 
 
 ### Technologies, Langues & Frameworks that I like and use:
@@ -44,7 +44,7 @@ I have built various customized ml solutions in the e-commerce and digital marke
 
 ### My past life as a researcher 
 
-Before I started working in Industry as a Data Scientist (in 2018), I was a research fellow at the [Max Planck Institute for empirical Aesthetics](https://www.aesthetics.mpg.de/en.html). During that time, I published more than :one::four: Manuscripts, :seven: of them in leading peer-reviewed journals of the field.
+Before I started working in Industry as a Data Scientist, I was a research fellow at the [Max Planck Institute for empirical Aesthetics](https://www.aesthetics.mpg.de/en.html). During that time, I published more than :one::four: Manuscripts, :seven: of them in leading peer-reviewed journals of the field.
 
 :book: 
 [Publications](https://scholar.google.com/citations?user=TJxthbYAAAAJ&hl=en) 
