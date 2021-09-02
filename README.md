@@ -53,7 +53,7 @@ I write
 
 ---
 
-### Some Courses and Certifications
+### Courses and Certifications
 
 - [Google Cloud Certified Professional Machine Learning Engineer](https://www.credential.net/d17c0b3e-92af-4120-bbf2-96906a5d0b24)
 - [Google Cloud Certified Professional Data Engineer](https://www.credential.net/54b9aead-f141-4806-8595-1616a4c05afa?key=5e7bccbedfca60773e27f7c1e2ec3750d570d61488a97122b17a7863f0133a48)
