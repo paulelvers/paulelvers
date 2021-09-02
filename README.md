@@ -16,7 +16,7 @@ I built
 
 I write
 - blog posts (irregularly) at [paulelvers.com](www.paulelvers.com)
-- tweets at [`/paulelvers`](www.twitter.com/paulelvers)
+- tweets at [@paulelvers](www.twitter.com/paulelvers)
 
 ---
 
