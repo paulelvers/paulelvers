@@ -15,8 +15,8 @@ I built
 - etl & elt jobs
 
 I write
-- blog posts (irregularly) at [paulelvers.com](http://www.paulelvers.com)
-- tweets at [@paulelvers](http://www.twitter.com/paulelvers)
+- blog posts @ [paulelvers.com](http://www.paulelvers.com)
+- tweets [@paulelvers](http://www.twitter.com/paulelvers)
 
 ---
 
