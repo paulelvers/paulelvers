@@ -57,6 +57,7 @@ I write
 
 - [Google Cloud Certified Professional Machine Learning Engineer](https://www.credential.net/d17c0b3e-92af-4120-bbf2-96906a5d0b24)
 - [Google Cloud Certified Professional Data Engineer](https://www.credential.net/54b9aead-f141-4806-8595-1616a4c05afa?key=5e7bccbedfca60773e27f7c1e2ec3750d570d61488a97122b17a7863f0133a48)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e282feaa-0253-4107-b7f8-8707f8ff2b97)
 - [Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/2MHPTZQRMRPV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/YR54TY2E582U)
 
@@ -64,7 +65,7 @@ I write
 
 ### Research
 
-Before I started working in Industry as a Data Scientist, I was a research fellow at the [Max Planck Institute for empirical Aesthetics](https://www.aesthetics.mpg.de/en.html). During that time, I published more than :one::four: Manuscripts, :seven: of them in leading peer-reviewed journals of the field.
+Before I started working in industry as a Data Scientist, I was a research fellow at the [Max Planck Institute for empirical Aesthetics](https://www.aesthetics.mpg.de/en.html). During that time, I published more than :one::four: Manuscripts, :seven: of them in leading peer-reviewed journals of the field.
 
 :book: 
 [Publications](https://scholar.google.com/citations?user=TJxthbYAAAAJ&hl=en) 
