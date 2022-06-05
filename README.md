@@ -2,7 +2,6 @@
 
 
 I am
-- working as a **Senior Consultant AI Engineering**
 - designing **machine learning cloud solutions** on AWS & GCP
 - a **data engineer** (ingestion, etl, query optimization, streaming), if I have to 😉
 - **implementing ml and data science solutions** (algorithms, analytics, dashboards)
