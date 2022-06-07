@@ -1,10 +1,9 @@
 ## Hi there I am Paul 👋
 
 
-I am
-- designing **machine learning cloud solutions** on AWS & GCP
-- a **data engineer** (ingestion, etl, query optimization, streaming), if I have to 😉
-- **implementing ml and data science solutions** (algorithms, analytics, dashboards)
+I am Head of AI/Data Science at [Datadrivers](www.datadrivers.de). 
+
+I 💟 Data Science, ML, and MLOps. 
 
 I built
 - recommendation systems in ecommerce
