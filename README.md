@@ -1,8 +1,6 @@
 ## Hi there I am Paul 👋
 
 
-I am Head of AI/Data Science at [Datadrivers](www.datadrivers.de). 
-
 I 💟 Data Science, ML, and MLOps. 
 
 I built
@@ -14,7 +12,6 @@ I built
 
 I write
 - blog posts @ [paulelvers.com](http://www.paulelvers.com)
-- tweets [@paulelvers](http://www.twitter.com/paulelvers)
 
 ---
 
